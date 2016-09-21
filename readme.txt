@@ -4,4 +4,4 @@ The first modify of readme.
 Creating a new branch is quick and simple.
 Switched to a new branch 'dev'
 Debugging
-Use sublime text 3 with git.
+Use sublime text 3.

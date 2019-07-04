@@ -6,3 +6,4 @@ Switched to a new branch 'dev'
 Debugging
 Use sublime text 3.
 test debug.
+test gitemoji.
